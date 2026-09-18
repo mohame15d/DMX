@@ -1,0 +1,6 @@
+{
+  "name": "Anime Stream",
+  "description": "Complete Arabic anime streaming platform for searching, discovering, and watching anime with Arabic subtitles, high-speed servers, and live API updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
